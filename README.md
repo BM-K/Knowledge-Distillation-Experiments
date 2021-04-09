@@ -5,3 +5,7 @@
 
 # LSTM <br>
 <img src = "https://user-images.githubusercontent.com/55969260/113986832-a966e880-9888-11eb-826a-cf70b85ad685.png">
+<br>
+
+# Transformer <br>
+<img src = "https://user-images.githubusercontent.com/55969260/114112211-e4aff880-9916-11eb-8364-5fe20984678b.png"> <br>
