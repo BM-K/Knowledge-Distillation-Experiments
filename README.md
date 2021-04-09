@@ -8,4 +8,4 @@
 <br>
 
 # Transformer <br>
-<img src = "https://user-images.githubusercontent.com/55969260/114112211-e4aff880-9916-11eb-8364-5fe20984678b.png"> <br>
+<img src = "https://user-images.githubusercontent.com/55969260/114114777-82f28d00-991c-11eb-8d6f-4c285e483be4.png"> <br>
