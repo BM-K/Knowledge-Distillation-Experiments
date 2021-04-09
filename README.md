@@ -10,5 +10,5 @@
 
 # Transformer (1), (2)<br>
 - Data set: '네이버 영화평 감정분석 데이터셋'
-<img src = "https://user-images.githubusercontent.com/55969260/114114777-82f28d00-991c-11eb-8d6f-4c285e483be4.png"> 
+<img src = "https://user-images.githubusercontent.com/55969260/114116076-f09fb880-991e-11eb-8865-d85d24be5eb6.png"> 
 <br>
